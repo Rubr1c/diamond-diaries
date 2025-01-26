@@ -23,6 +23,7 @@
 ##### Auth
 
 [Spring Security JWT: User Sign Up + Login with Email Verification in Spring Boot](https://www.youtube.com/watch?v=uZGuwX3St_c)
+[Spring Boot 3 + Spring Security 6 - JWT Authentication and Authorisation](https://www.youtube.com/watch?v=KxqlJblhzfI)
 
 ---
 
@@ -35,3 +36,9 @@
 ### Docker
 
 [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=p28piYY_wv8&t=1s)
+
+---
+
+### Pactice
+
+[Spring Boot, React.js & AWS S3 Full Stack Development](https://www.youtube.com/watch?v=9i1gQ7w2V24&t=1877s)
