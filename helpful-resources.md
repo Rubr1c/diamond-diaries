@@ -13,3 +13,7 @@
 ### Docker
 
 [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=p28piYY_wv8&t=1s)
+
+### Javascript
+
+[JavaScript Full Course](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
