@@ -32,6 +32,8 @@
 
 [Everything You'll Need to Know About Git](https://frontendmasters.com/courses/everything-git/)
 
+[Git & GitHub Tutorial](https://www.youtube.com/watch?v=S7XpTAnSDL4)
+
 ---
 
 ### Docker
