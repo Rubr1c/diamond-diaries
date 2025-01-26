@@ -17,3 +17,8 @@
 ### Javascript
 
 [JavaScript Full Course](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
+
+
+### Java
+
+[Java Tutorial For Beginners](https://www.youtube.com/watch?v=j9VNCI9Xo80)
