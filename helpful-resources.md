@@ -23,6 +23,7 @@
 ##### Auth
 
 [Spring Security JWT: User Sign Up + Login with Email Verification in Spring Boot](https://www.youtube.com/watch?v=uZGuwX3St_c)
+
 [Spring Boot 3 + Spring Security 6 - JWT Authentication and Authorisation](https://www.youtube.com/watch?v=KxqlJblhzfI)
 
 ---
