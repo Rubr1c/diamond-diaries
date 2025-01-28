@@ -6,6 +6,10 @@
 
 [JavaScript Full Course](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
 
+### React
+
+[React Query in 40 Minutes](https://www.youtube.com/watch?v=NOvx4LB6Hfk)
+
 ---
 
 ### Java
