@@ -1,0 +1,3 @@
+[submodule "spring-backend"]
+	path = spring-backend
+	url = https://github.com/Rubr1c/journal-app-spring
