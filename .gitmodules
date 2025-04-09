@@ -1,3 +1,6 @@
 [submodule "spring-backend"]
 	path = spring-backend
 	url = https://github.com/Rubr1c/journal-app-spring
+[submodule "next-frontend"]
+	path = next-frontend
+	url = https://github.com/Rubr1c/diamond-diaries-next
